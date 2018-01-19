@@ -1,0 +1,103 @@
+{
+  "configVersion": 1,
+  "index": "https://ashwin-sureshkumar.github.io/rxjs-docs/index.html",
+  "appData": {
+    "name": "RxJS Docs",
+    "description": "RxJS Docs"
+  },
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/favicon.ico",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/index.html",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/0.6f25e46875fee5532db6.chunk.js",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/1.3acd507507a7fb8489a9.chunk.js",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/2.b8031287cdf439d7a065.chunk.js",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/3.84cfa01f8342c33ebc2d.chunk.js",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/4.e8a54ca513c43f871ac4.chunk.js",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/inline.60d84c3c34dfb0b96bc6.bundle.js",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/main.3e3a1e21619923ddd7f0.bundle.js",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/polyfills.c55e411ea32138135866.bundle.js",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/styles.e477351e9b63390d04ba.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/companies/google.png",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/companies/microsoft.png",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/fonts/icomoon.woff",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/GitHub-Mark-Light-64px.png",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-128-128.png",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-144-144.png",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-16-16.png",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-192-192.png",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-48-48.png",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-512-512.png",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-72-72.png",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-96-96.png",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/rx-marbles/custom-elements.js",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/rx-marbles/element.js",
+        "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/rx-marbles/native-shim.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "fonts",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
+      ]
+    },
+    {
+      "name": "misc",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": [
+        "https:\\/\\/cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/web-animations\\/2\\.2\\.5\\/web-animations\\.min\\.js",
+        "https:\\/\\/cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/highlight\\.js\\/9\\.5\\.0\\/styles\\/monokai_sublime\\.min\\.css",
+        "https:\\/\\/cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/highlight\\.js\\/9\\.5\\.0\\/highlight\\.min\\.js",
+        "https:\\/\\/cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/highlight\\.js\\/9\\.5\\.0\\/languages\\/typescript\\.min\\.js",
+        "http:\\/\\/reactivex\\.io\\/rxjs\\/img\\/.*"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/0.6f25e46875fee5532db6.chunk.js": "fe039e443f50d38a972a55984db23a66f4b228b7",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/companies/google.png": "915ef4fbdba3c008d7d8038b8376abf8f7c1d075",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/1.3acd507507a7fb8489a9.chunk.js": "43f6f5428d818fe8c1fc320ce5159d29b22d0792",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/companies/microsoft.png": "24a79e793810129d22c50a7497b0ffac601a4a9c",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/2.b8031287cdf439d7a065.chunk.js": "d8bb5d1b7b75a15c49a03be2435e27ed4acd50e8",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/fonts/icomoon.woff": "35411c4ce16b0c37d8d9d376d96b310de0190357",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/3.84cfa01f8342c33ebc2d.chunk.js": "df860f15c531c782caa9357549f30a44cf760dc8",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/GitHub-Mark-Light-64px.png": "a897bfa37a683b8d622fdf93f5535654350d83a1",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/4.e8a54ca513c43f871ac4.chunk.js": "9d033c93434b3f3de2444a728a3efc305bba49ca",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-128-128.png": "63c869a84ffc9b62d28104e249eba13c55071632",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/inline.60d84c3c34dfb0b96bc6.bundle.js": "4cd32557491699ddd9d67710a435fe6d6ab0665c",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-144-144.png": "52610ec96944a942c8b1de82ef8180ce40a5c26a",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/main.3e3a1e21619923ddd7f0.bundle.js": "e6704fb5a66830e97128cfe559eab7582c65799c",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-16-16.png": "20b75f088099aef35b8340a2b30d5aaa80faff33",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/polyfills.c55e411ea32138135866.bundle.js": "bcafb87007cbb6659bc388089b3bfa6cfdf8f4b7",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-192-192.png": "308c94c850d4bf8cce7f84b1de24f4212eef5b03",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/styles.e477351e9b63390d04ba.bundle.css": "a73e6f8815335e6ed50da8c9199f5bb3fb1f1c8d",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-48-48.png": "43334eaf852d952e435c05560a21e8a0a8cc4128",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-512-512.png": "b7576fb445620d6a9f6c838eab952dfa966503ca",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/index.html": "1038e0c071d217cad8d3457fbd4e3d9e7a655eb1",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-72-72.png": "fc8a20ed79832ddfb3b23176df8ee66d00f75d93",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/img/Rx_Logo-96-96.png": "8d21744f7cbfffa4f36265b723bcc6b50b66a6c4",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/rx-marbles/custom-elements.js": "93d410d3394c1f67e064163f603ded7d3c926708",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/rx-marbles/element.js": "33183fb629b4f48a1fb545ec3da49a3a1d6c3bb0",
+    "https://ashwin-sureshkumar.github.io/rxjs-docs/assets/rx-marbles/native-shim.js": "30980dca72078d5a11e998f38c124d250bc07963"
+  }
+}
